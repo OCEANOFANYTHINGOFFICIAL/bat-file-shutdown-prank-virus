@@ -5,11 +5,14 @@
 
 
 or
+This is Shell Code
 ```
 https://github.com/OCEANOFANYTHINGOFFICIAL/bat-file-shutdown-prank-virus.git
 ```
 
-#Copy And Paste The Following Code In Notepad And Save It as shutdown.bat.
+or
+
+# Copy And Paste The Following Code In Notepad And Save It as shutdown.bat.
 ```shell
 @echo off
 echo You Are Hacked.
