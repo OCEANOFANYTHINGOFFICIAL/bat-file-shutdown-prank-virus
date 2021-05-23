@@ -5,12 +5,14 @@
 
 
 or
-
+```
+https://github.com/OCEANOFANYTHINGOFFICIAL/bat-file-shutdown-prank-virus.git
+```
 
 #Copy And Paste The Following Code In Notepad And Save It as shutdown.bat.
 ```shell
 @echo off
-echo Message here.
+echo You Are Hacked.
 shutdown -s -f -t 60 -c "Your system is hacked by Mr. OCEAN OF ANYTHING."
 ```
 
